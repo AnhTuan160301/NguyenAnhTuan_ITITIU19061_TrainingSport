@@ -1,2 +1,2 @@
 # NguyenAnhTuan_ITITIU19061_TrainingSport
-Nguyen Anh Tuan _ ITITIU19061
+Nguyen Anh Tuan _ ITITIU19061_RefFromGoogleTrainingProject
